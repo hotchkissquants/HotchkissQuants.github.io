@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="logo.png"
+  <img src="banner.png"
        alt="Hotchkiss Student Investment Fund Logo"
-       width="175"
-       height="175">
-  &nbsp;
-  <img src="churchill_fund_logo.png"
-       alt="Churchill Fund Logo"
        height="175">
 </p>
 
