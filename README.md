@@ -1,5 +1,3 @@
-# Hotchkiss Student Investment Fund Quantitative Division
-
 <p align="center">
   <img src="logo.png"
        alt="Hotchkiss Student Investment Fund Logo"
